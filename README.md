@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ivan Kabar! </h2>
-<p><em>Software Enginner at <a href="https://clearvue.business">ClearVUE.Business</a> 
+<p><em>Software Engineer at <a href="https://clearvue.business">ClearVUE.Business</a> 
 </em></p>
 
 [![Linkedin: ivankabar](https://img.shields.io/badge/-IvanKabar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-kabar-ba3622247/)](https://www.linkedin.com/in/ivan-kabar-ba3622247/)
