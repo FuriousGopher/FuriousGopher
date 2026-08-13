@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ivan Kabar</h1>
 
 <p align="center">
-  Software Engineer building reliable backend systems, developer tools, and thoughtful products.
+  Senior Backend Engineer · Backend Architecture · Platform Engineering
 </p>
 
 <p align="center">
@@ -12,40 +12,45 @@
   Based in Dubai
 </p>
 
-## What I do
+## Profile
 
-I work primarily with TypeScript and Node.js, designing APIs and services that are reliable under real-world load. I enjoy turning ambiguous product requirements into clear systems, dependable integrations, and maintainable code.
+I build distributed, high-load backend systems for production. My primary stack is **TypeScript and Node.js**, with a focus on service design, event-driven architecture, data modeling, production operations, and reliable delivery.
 
-My interests sit at the intersection of backend engineering and product development:
+I enjoy turning complex product requirements into clear service boundaries, dependable integrations, and systems that remain observable and maintainable as they grow.
 
-- distributed and event-driven systems
-- API design and third-party integrations
-- queues, caching, and high-throughput workflows
-- observability, reliability, and safe failure handling
-- cloud-native development and developer experience
+## What I bring
 
-## Current focus
+- Backend architecture for high-concurrency and mission-critical workflows
+- Event-driven pipelines with Redis, RabbitMQ, BullMQ, and NATS
+- PostgreSQL data models, migrations, indexing, and performance-conscious APIs
+- Production operations with Docker, Kubernetes, Argo CD, and GitHub Actions
+- Observability and failure isolation with Prometheus, Grafana, Sentry, and OpenTelemetry
+- Secure third-party integrations, including payments, verification, storage, and Web3 services
 
-I’m currently building with **FutureWindAI**, with a focus on developer tooling and practical product engineering.
+## Current personal project
 
-One of my current public projects is [Wotchi](https://github.com/FutureWindAI/Wotchi), a lightweight incident-alerting SDK for Node.js, Express, and NestJS.
+I’m building [FutureWindAI](https://github.com/FutureWindAI) as a personal project focused on practical developer tooling and product engineering.
+
+Its current public project is [Wotchi](https://github.com/FutureWindAI/Wotchi), a lightweight incident-alerting SDK for Node.js, Express, and NestJS.
 
 ## Selected work
 
 - [Wotchi](https://github.com/FutureWindAI/Wotchi) — bounded, in-process incident alerts for Node.js services.
 - [api_wallet](https://github.com/FuriousGopher/api_wallet) — an event-driven distributed wallet microservice.
-- High-load backend systems — APIs and asynchronous workflows using queues, Redis, PostgreSQL, and containerized infrastructure.
-- Product integrations — payment, verification, storage, and other third-party integrations designed around clear contracts and failure isolation.
+- High-load backend systems — APIs and asynchronous workflows built around queues, caching, PostgreSQL, and containerized infrastructure.
+- Production integrations — payment, verification, storage, and crypto-facing services designed around clear contracts and safe failure handling.
 
 ## Core stack
 
 **Languages:** TypeScript · JavaScript · SQL
 
-**Backend:** Node.js · NestJS · Express · REST APIs · PostgreSQL · MongoDB · Redis
+**Backend:** Node.js · NestJS · Express · REST APIs · PostgreSQL · CockroachDB · MongoDB · Redis
 
-**Infrastructure:** Docker · Kubernetes · AWS · GCP · NATS · Argo CD
+**Messaging and data access:** RabbitMQ · NATS · BullMQ · Prisma · TypeORM · Socket.IO
 
-**Engineering focus:** Microservices · event-driven architecture · observability · API reliability · performance
+**Infrastructure and delivery:** Docker · Kubernetes · Docker Compose · AWS · GCP · Argo CD · GitHub Actions · HashiCorp Vault
+
+**Observability:** Prometheus · Grafana · Sentry · OpenTelemetry
 
 ## Background
 
