@@ -1,71 +1,56 @@
-<h2> Hi, I'm Ivan Kabar! </h2>
-<p><em>Software Engineer with a passion for scalable architectures and cutting-edge technologies</em></p>
+<h1 align="center">Hi, I'm Ivan Kabar</h1>
 
-[![Linkedin: ivankabar](https://img.shields.io/badge/-IvanKabar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-kabar-ba3622247/)](https://www.linkedin.com/in/ivan-kabar-ba3622247/)
-[![GitHub FuriousGopher](https://img.shields.io/github/followers/FuriousGopher?label=follow&style=social)](https://github.com/FuriousGopher)
+<p align="center">
+  Software Engineer building reliable backend systems, developer tools, and thoughtful products.
+</p>
 
-📊 **GitHub Stats:**
-![](https://github-readme-streak-stats.herokuapp.com/?user=FuriousGopher&theme=onedark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuriousGopher&hide_progress=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ivan-kabar-ba3622247/">LinkedIn</a>
+  ·
+  <a href="https://github.com/FuriousGopher">GitHub</a>
+  ·
+  Based in Dubai
+</p>
 
----
+## What I do
 
-### 🛠 Tech Stack
-- **Languages:** JavaScript, TypeScript 
-- **Frontend:** React, Vue.js  
-- **Backend:** Node.js, NestJS, Express, SQL, PostgreSQL, MongoDB, Redis  
-- **Tools & Platforms:** Docker, Kubernetes, GCP, AWS Lambda, NATS, K9S
-- **Architecture:** Microservices, Event-Driven Systems, RESTful APIs, ArgoCD
+I work primarily with TypeScript and Node.js, designing APIs and services that are reliable under real-world load. I enjoy turning ambiguous product requirements into clear systems, dependable integrations, and maintainable code.
 
----
+My interests sit at the intersection of backend engineering and product development:
 
-### 🏆 Highlights
-- **High-Load Systems:** Built scalable systems using Kubernetes, Redis in Digital Ocean to handle high concurrency scenarios.  
-- **Web3 Integration:** Developed cryptocurrency payment systems for iGaming platforms using Ethereum and Solana smart contracts with MetaMask.  
-- **API Development:** Designed and deployed robust RESTful APIs, integrating third-party services.  
-- **Bulk Operations:** Implemented efficient bulk file uploads and pre-signed S3 URLs handling up to 100 files per request.  
-- **Monitoring & Optimization:** Used Prometheus and Grafana for monitoring high-load systems, ensuring system reliability and performance.
+- distributed and event-driven systems
+- API design and third-party integrations
+- queues, caching, and high-throughput workflows
+- observability, reliability, and safe failure handling
+- cloud-native development and developer experience
 
----
+## Current focus
 
-### 💼 Projects
-- **Random Video Call App:** Developed a mobile app backend with a Redis-powered queue system for real-time user room allocation.  
-- **Crypto Payments in iGaming:** Integrated a Web3-based payment system allowing seamless cryptocurrency deposits and withdrawals.  
-- **KYC Verification Service:** Built a webhook-based integration with Onfido to automate user verification workflows.  
-- **Game Server:** Designed and deployed a scalable game server for dynamic map generation and achievement-based rewards.
+I’m currently building with **FutureWindAI**, with a focus on developer tooling and practical product engineering.
 
----
+One of my current public projects is [Wotchi](https://github.com/FutureWindAI/Wotchi), a lightweight incident-alerting SDK for Node.js, Express, and NestJS.
 
-<div style="float: right;">
- A little more about me...  
+## Selected work
 
-```javascript
-const ivan = {
-  code: [
-    'JavaScript',
-    'TypeScript',
-    'HTML',
-    'CSS'
-  ],
-  tools: [
-    'React',
-    'Vue',
-    'Node',
-    'SQL',
-    'Nest',
-    'Express',
-    'Docker',
-    'GCP',
-    'Redis',
-    'Kubernetes',
-    'ArgoCD'
-  ],
-  architecture: [
-    "microservices",
-    "event-driven",
-    "high-load systems"
-  ],
-  currentFocus: "Web3 integrations, scalable backend systems, and cloud-native solutions."
-}
-```
-</div>
+- [Wotchi](https://github.com/FutureWindAI/Wotchi) — bounded, in-process incident alerts for Node.js services.
+- [api_wallet](https://github.com/FuriousGopher/api_wallet) — an event-driven distributed wallet microservice.
+- High-load backend systems — APIs and asynchronous workflows using queues, Redis, PostgreSQL, and containerized infrastructure.
+- Product integrations — payment, verification, storage, and other third-party integrations designed around clear contracts and failure isolation.
+
+## Core stack
+
+**Languages:** TypeScript · JavaScript · SQL
+
+**Backend:** Node.js · NestJS · Express · REST APIs · PostgreSQL · MongoDB · Redis
+
+**Infrastructure:** Docker · Kubernetes · AWS · GCP · NATS · Argo CD
+
+**Engineering focus:** Microservices · event-driven architecture · observability · API reliability · performance
+
+## Background
+
+My earlier work includes Web3 payment integrations and iGaming platforms, where I built backend services, cryptocurrency deposit and withdrawal flows, KYC integrations, and systems designed for high concurrency. That experience shaped how I approach security, operational reliability, and external integrations today.
+
+## Let's connect
+
+If you’re working on backend systems, developer tools, or a product that needs a dependable technical foundation, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ivan-kabar-ba3622247/).
