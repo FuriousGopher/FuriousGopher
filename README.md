@@ -11,6 +11,8 @@
   ·
   <a href="https://x.com/IvanKabar">X</a>
   ·
+  <a href="https://futurewindai.com">FutureWind AI</a>
+  ·
   Based in Dubai
 </p>
 
@@ -31,14 +33,17 @@ I enjoy turning complex product requirements into clear service boundaries, depe
 
 ## Current personal projects
 
-I’m building [FutureWindAI](https://github.com/FutureWindAI) as a personal project focused on practical developer tooling and product engineering.
+I’m building [FutureWindAI](https://futurewindai.com) as a personal project focused on practical developer tooling and product engineering.
 
-Its current public developer-tool project is [Wotchi](https://github.com/FutureWindAI/Wotchi), a lightweight incident-alerting SDK for Node.js, Express, and NestJS.
+Its current pilot product is [OpsPulse](https://futurewindai.com), a read-only operator-reporting workflow for lean iGaming teams, delivered into Telegram from approved Postgres, MySQL, or CSV sources.
+
+Its public developer-tool project is [Wotchi](https://github.com/FutureWindAI/Wotchi), a lightweight incident-alerting SDK for Node.js, Express, and NestJS.
 
 I’m also building a small iOS workout generator focused on constraints, seeded randomness, and repeatable rerolls.
 
 ## Selected work
 
+- [OpsPulse](https://futurewindai.com) — pilot-scoped, read-only operator reporting for lean iGaming workflows.
 - [Wotchi](https://github.com/FutureWindAI/Wotchi) — bounded, in-process incident alerts for Node.js services.
 - [api_wallet](https://github.com/FuriousGopher/api_wallet) — an event-driven distributed wallet microservice.
 - High-load backend systems — APIs and asynchronous workflows built around queues, caching, PostgreSQL, and containerized infrastructure.
@@ -62,4 +67,4 @@ My earlier work includes Web3 payment integrations and iGaming platforms, where 
 
 ## Let's connect
 
-If you’re working on backend systems, developer tools, or a product that needs a dependable technical foundation, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ivan-kabar-ba3622247/) or follow [X](https://x.com/IvanKabar) for build notes and release updates.
+If you’re working on backend systems, developer tools, or a product that needs a dependable technical foundation, visit [FutureWind AI](https://futurewindai.com), connect on [LinkedIn](https://www.linkedin.com/in/ivan-kabar-ba3622247/), or follow [X](https://x.com/IvanKabar) for build notes and release updates.
