@@ -9,6 +9,8 @@
   ·
   <a href="https://github.com/FuriousGopher">GitHub</a>
   ·
+  <a href="https://x.com/IvanKabar">X</a>
+  ·
   Based in Dubai
 </p>
 
@@ -27,11 +29,13 @@ I enjoy turning complex product requirements into clear service boundaries, depe
 - Observability and failure isolation with Prometheus, Grafana, Sentry, and OpenTelemetry
 - Secure third-party integrations, including payments, verification, storage, and Web3 services
 
-## Current personal project
+## Current personal projects
 
 I’m building [FutureWindAI](https://github.com/FutureWindAI) as a personal project focused on practical developer tooling and product engineering.
 
-Its current public project is [Wotchi](https://github.com/FutureWindAI/Wotchi), a lightweight incident-alerting SDK for Node.js, Express, and NestJS.
+Its current public developer-tool project is [Wotchi](https://github.com/FutureWindAI/Wotchi), a lightweight incident-alerting SDK for Node.js, Express, and NestJS.
+
+I’m also building a small iOS workout generator focused on constraints, seeded randomness, and repeatable rerolls.
 
 ## Selected work
 
@@ -58,4 +62,4 @@ My earlier work includes Web3 payment integrations and iGaming platforms, where 
 
 ## Let's connect
 
-If you’re working on backend systems, developer tools, or a product that needs a dependable technical foundation, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ivan-kabar-ba3622247/).
+If you’re working on backend systems, developer tools, or a product that needs a dependable technical foundation, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ivan-kabar-ba3622247/) or follow [X](https://x.com/IvanKabar) for build notes and release updates.
